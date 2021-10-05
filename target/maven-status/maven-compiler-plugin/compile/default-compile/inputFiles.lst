@@ -1,0 +1,16 @@
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/exceptions/ExcepcionPropia.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/controllers/TecnologiaController.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/models/entities/Tecnologia.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/services/CandidatoService.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/repository/CandidatoImplement.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/controllers/CandidatoController.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/models/entities/Candidato.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/ServletInitializer.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/repository/TecnologiaRepository.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/EvalTecApplication.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/models/entities/CanTec.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/utilidades/Utils.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/repository/TecnologiaImplement.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/repository/CandidatoRepository.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/services/TecnologiaService.java
+/home/alan/IdeaProjects/evalTec/src/main/java/com/evaluacion/evalTec/models/enums/TipoDocumentoEnum.java
